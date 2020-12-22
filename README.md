@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ---
 
-### blog
+### Blog
 
-[https://jerryyuanj.github.io/](https://jerryyuanj.github.io/)
+[jerryyuanj.github.io/](https://jerryyuanj.github.io/)
+
+### Contact me
+
+y243634j@163.com
