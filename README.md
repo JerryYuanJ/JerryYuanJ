@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JerryYuanJ/JerryYuanJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋 This is Jerry
+
+- 📖 I'm a front-end developer working mainly with VueJs and React.
+
+- 🏀 I'm a Laker fan and KOBE BRYANT is my favorite player.
+
+- ✍️ I like writing tech ariticles in my **spare** time.
+
+----
+
+### Code Stats
+
+![](https://github-readme-stats.vercel.app/api?username=JerryYuanJ&theme=dark)
+
+---
+
+### blog
+
+[https://jerryyuanj.github.io/](https://jerryyuanj.github.io/)
