@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Blog
 
-[jerryyuanj.github.io/](https://jerryyuanj.github.io/)
+[jerryyuanj.github.io/](https://jerryyuanj.github.io/blog/)
 
 ### Contact me
 
